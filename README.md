@@ -1,5 +1,7 @@
 ## Module 1 Capstone - Vending Machine Software
 
+This Project was made as a capstone for my course at Tech Elevator, alongside my partner Trenton Bowers. The details we were given for building the project are found below.
+
 You're developing an application for the newest vending machine distributor,
 Umbrella Corp. They've released a new vending machine, Vendo-Matic 800, that's integrated
 with everyone's bank accounts, allowing customers to purchase products from their computers for their convenience.
